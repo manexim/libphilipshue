@@ -1,0 +1,1 @@
+project('libphilipshue', 'vala', 'c')
